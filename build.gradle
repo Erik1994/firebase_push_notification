@@ -2,6 +2,7 @@ buildscript {
     ext {
         ext {
             retrofit_version = "2.9.0"
+            lifecycle_version = "2.4.1"
         }
     }
     dependencies {
